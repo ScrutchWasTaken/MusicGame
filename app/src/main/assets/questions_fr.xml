@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+
+    <questionGroup M="ConcertoDDurOp35III.mp3" Q="Qui a composé cet extrait?" A1="J.S. Bach" A2="P.I. Tchaikovsky" A3="F. Mendelssohn" A4="N. Paganini" R="P.I. Tchaikovsky" />
+    <questionGroup M="ConcertoDDurOp35III.mp3" Q="Quel est le titre de cet extrait?" A1="Caprice n°24" A2="Hungarian n°5" A3="Concerto for violin in D Mvt 3" A4="Romance for violin" R="Concerto for violin in D Mvt 3" />
+    <questionGroup M="PaganiniCaprice24.mp3" Q="Qui a composé cet extrait?" A1="J.S. Bach" A2="W.A. Mozart" A3="F. Mendelssohn" A4="N. Paganini" R="N. Paganini" />
+    <questionGroup M="PaganiniCaprice24.mp3" Q="Quel est le titre de cet extrait?" A1="Caprice n°24" A2="Hungarian n°5" A3="Concerto for violin in D" A4="Romance for violin" R="Caprice n°24" />
+    <questionGroup M="MendelssohnConcertoE-I.mp3" Q="Qui a composé cet extrait?" A1="J.S. Bach" A2="W.A. Mozart" A3="F. Mendelssohn" A4="N. Paganini" R="F. Mendelssohn" />
+    <questionGroup M="MendelssohnConcertoE-I.mp3" Q="Quel est le titre de cet extrait?" A1="Caprice n°24" A2="Hungarian n°5" A3="Concerto for violin in E Mvt 1" A4="Romance for violin" R="Concerto for violin in E Mvt 1" />
+
+</questions>

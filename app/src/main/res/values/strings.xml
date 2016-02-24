@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MusicGame</string>
+    <string name="play">play</string>
+    <string name="play_music">Play Music</string>
+
+    <string name="question">Question</string>
+    <string name="answer1">Answer1</string>
+    <string name="answer2">Answer2</string>
+    <string name="answer3">Answer3</string>
+    <string name="answer4">Answer4</string>
+
+    <string name="help">Help</string>
+    <string name="answer">Answer</string>
+    <string name="stop_music">Stop Music</string>
+
+
+</resources>
